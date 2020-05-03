@@ -1,4 +1,8 @@
 {
     "name" : "jamie/first-idris-pkg",
-    "dependencies" : {}
+    "dependencies" : {},
+    "sourcedir" : "src",
+    "modules" : [
+        "FirstModule"
+    ]
 }
